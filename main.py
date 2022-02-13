@@ -9,3 +9,4 @@ while (inputvar>0):
         inputvar=(inputvar)/2
 
 print("Binary is: " + outputvar)
+
